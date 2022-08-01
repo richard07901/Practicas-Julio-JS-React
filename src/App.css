@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  font-family: cursive;
+  color: blue;
+}
+
+.rojo{
+  background-color: red;
+}
+
+.verde {
+  background-color: green;
+}
